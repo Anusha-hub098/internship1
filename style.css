@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://avatars.githubusercontent.com/u/217360022?s=200&v=4");
+    
+    background-size: cover;                  
+    background-attachment: fixed;            
+    background-position: center;             
+    background-repeat: no-repeat;             
+
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-shadow: 0rlh;
+}
+p{
+    font-size: medium;
+    color: rgb(160, 96, 18);
+}
+a{
+    color: blueviolet;
+    display: block;
+}
+img{
+    display: block;
+    margin: auto;
+}
+button{
+    color: crimson;
+    background-color: darkseagreen;
+}
